@@ -26,7 +26,7 @@ Sou um profissional de tecnologia apaixonado por desenvolvimento de software e r
 ## 📫 Como me contactar
 
 - 📧 Email: [ruidantas004@gmail.com](mailto:ruidantas004@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/rui-dantas](https://www.linkedin.com/in/rui-dantas)
+
 
 ## 🌐 Idiomas
 
