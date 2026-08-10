@@ -1,38 +1,33 @@
-# Olá! 👋 Eu sou o Rui Gonçalves Dantas
+# Hello! 👋 I'm Rui Gonçalves Dantas
 
-🎓 **Engenheiro Informático** formado pela Universidade do Minho  
-📚 Atualmente a realizar **Mestrado em Engenharia Informática** na UMinho  
+🎓 **Software Engineer** graduated from the University of Minho  
+📚 Currently pursuing a **Master’s Degree in Informatics Engineering** at UMinho  
 📍 Viana do Castelo, Portugal
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou um profissional de tecnologia apaixonado por desenvolvimento de software e resolução de problemas. Com formação sólida em Engenharia Informática pela Universidade do Minho, estou constantemente a expandir os meus conhecimentos através do mestrado que estou a realizar.
+I am a technology professional passionate about software development and problem-solving. With a strong academic background in Informatics Engineering from the University of Minho, I am continuously expanding my knowledge through the master’s degree I am currently pursuing.
 
-## 💻 Competências Técnicas
+## 💻 Technical Skills
 
-- **Linguagens de Programação:** Python, Java
-- **Desenvolvimento Web:** HTML, CSS, JavaScript
-- **Controlo de Versões:** GitHub, GitLab
-- **Bases de Dados:** SQL Server, MySQL
-- **Outras Competências:** Firebase, Testes de Software, Análise de Dados
+- **Programming Languages:** Python, Java
+- **Web Development:** HTML, CSS, JavaScript
+- **Version Control:** GitHub, GitLab
+- **Databases:** SQL Server, MySQL
+- **Other Skills:** Firebase, Software Testing, Data Analysis
 
-## 🎯 Interesses
+## 🎯 Interests
 
-- Programação Informática
-- Investigação e Pesquisa
-- Aprendizagem de Novos Softwares
-- Análise de Dados
+- Software Development
+- Research
+- Learning New Technologies and Software
+- Data Analysis
 
-## 📫 Como me contactar
+## 📫 Contact Me
 
 - 📧 Email: [ruidantas004@gmail.com](mailto:ruidantas004@gmail.com)
 
+## 🌐 Languages
 
-## 🌐 Idiomas
-
-- 🇵🇹 **Português:** Nativo
-- 🇬🇧 **Inglês:** B2 (Utilizador Independente)
-
----
-
-⭐ *"Facilidade de Aprendizagem de Novos Softwares"* é uma das minhas características principais!
+- 🇵🇹 **Portuguese:** Native
+- 🇬🇧 **English:** B2 — Independent User
